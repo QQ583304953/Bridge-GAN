@@ -12,6 +12,8 @@ Keywords: generative artificial intelligence; bridge-type innovation; generative
 
 Based on the Python3.8, TensorFlow2.6, and Keras2.6
 
+https://arxiv.org/abs/2401.00700
+
 从生成对抗网络隐空间中生成新桥型的尝试
 
 张洪俊
@@ -21,3 +23,5 @@ Based on the Python3.8, TensorFlow2.6, and Keras2.6
 摘要：尝试利用生成式人工智能技术生成新桥型。采用对称结构的三跨梁式桥、拱式桥、斜拉桥、悬索桥图像数据集，基于Python编程语言、TensorFlow及Keras深度学习平台框架，以及Wasserstein损失函数、Lipschitz约束，构建和训练生成对抗网络。从得到的低维桥型隐空间采样，能够生成不对称结构的新桥型。生成对抗网络能够在人类原创桥型的基础上，将不同结构部件进行有机搭配，创造生成新桥型，一定程度上具有类似人类的原创能力。生成式人工智能技术能够打开想象空间，给予人类启发。
 
 关键词：生成式人工智能；桥型创新；生成对抗网络；隐空间；深度学习
+
+http://www.paper.edu.cn/releasepaper/content/202312-73
